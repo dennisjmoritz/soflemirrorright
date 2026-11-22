@@ -20,7 +20,7 @@
 ---
 include:
 
-  - board: nrfmicro/nrf52840
+  - board: seeeduino_xiao_ble
     shield: soflerightinvert_dongle
 
   - board: nice_nano_v2
